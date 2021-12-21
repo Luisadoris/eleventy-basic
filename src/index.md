@@ -3,7 +3,6 @@ title: Home
 layout: base.njk
 tags: navItem
 ---
-# {{title}}
+<link rel="stylesheet" href="{{ '/css/overlay.css' | url }}">
+<script scr="/js/main.js"></script>
 
-My Home Page!
-This is the home page. Replace this with your text.
